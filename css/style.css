@@ -16,7 +16,7 @@ body a,.grid_1,plan_1,plan_1.one,plan_1.two,i.icon1, i.icon2, i.icon3, i.icon4, 
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-
+ 
 
 
 
@@ -337,7 +337,7 @@ label{
 	  height: 35px;
 	  background: url(../images/nav.png)no-repeat 0px 0px;
 	  display: inline-block;
-	  float: right;
+	  /* float: right; */
 	  cursor: pointer;
 	    margin:14px 3px;
 	}
@@ -1197,8 +1197,6 @@ ul.tab_list li a {
 ul.tab_list li a:hover {
 	color:none;
 }
-.resp-tab-active span {
-}
 .serve-head,.news-head,.culture-head{
  text-align:left;
    padding: 0 0 0 27px;
@@ -1959,7 +1957,7 @@ i.net{
 	}
 	.service-text {
 	  float: right;
-
+	}
 	.textbox h4 {
 	  font-size: 1.5em;
 	  text-align: center;

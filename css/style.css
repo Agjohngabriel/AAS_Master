@@ -3237,3 +3237,20 @@ i.net{
 	}
 
 }
+
+
+
+.modal_header{
+	background-color: green;
+}
+.modal_footer{
+	background-color: green;
+}
+.modal_body{
+	background-image: url('../images/modalimg.jpg');
+	background: ;
+}
+
+
+
+
